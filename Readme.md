@@ -65,7 +65,7 @@ airbnb_ml_project/
 7. How to Run and Reproduce
 
 Step 1: Clone the repository and install dependencies
-git clone <YOUR_GITHUB_REPO_URL>
+git clone  https://github.com/DJAGBA/airbnb-ml-pricing-paris
 cd airbnb_ml_project
 
 Step 2: Execute the modeling pipeline
